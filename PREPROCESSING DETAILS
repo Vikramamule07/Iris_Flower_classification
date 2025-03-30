@@ -1,0 +1,6 @@
+PREPROCESSING DETAILS:-
+The data for the project "IRIS Flower Classification" is taken from the Kaggle website.
+Kaggle URL = "https://www.kaggle.com/datasets/arshid/iris-flower-dataset".
+Thus the data is present in the form excel sheet, so I converted it into simple CSV file with .csv extension.
+Actual dataset used in project URL = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data".
+Then dataset is converted to Training dataset and Testing dataset.
